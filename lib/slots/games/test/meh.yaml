@@ -1,0 +1,15 @@
+- name: A
+  asset: test-pic.png
+  value: 1
+
+- name: B
+  asset: test-pic.png
+  value: 1
+
+- name: C
+  asset: test-pic.png
+  value: 1
+
+- name: D
+  asset: test-pic.png
+  value: 1
